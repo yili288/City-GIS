@@ -2,7 +2,7 @@
 
 City Map of Toronto, London, New York City, Rio De Janeiro, Tokyo and many more.
 
-Technology: C++, remote Linux environment (VNC), Git, GTK toolkit.
+Technology: C++, remote Linux environment (SSH & VNC), Git, GTK toolkit.
 
 Dataset: OpenStreetMap (OSM).
 

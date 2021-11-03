@@ -17,4 +17,4 @@ A map of streets and landmarks of multiple major cities in the world. Uses a mul
 
 GUI elements: search field, map markers, buttons. 					
 
-** Reach to me for the source code!
+** Reach out to me for the source code!

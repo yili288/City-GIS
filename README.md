@@ -1,4 +1,4 @@
-# City-GIS
+# City-Mapper (GIS)
 
 City Map of Toronto, London, New York City, Rio De Janeiro, Tokyo and many more.
 

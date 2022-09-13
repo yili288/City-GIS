@@ -13,8 +13,11 @@ Made by a team of three people.
 
 
 
-A map of streets and landmarks of multiple major cities in the world. Uses a multi destination Dijkstra's algorithm and Greedy algorithm to solve a courier service problem that is computationally hard. The map determines a legal path that goes through a set of predefined depots, pick up and drop off points.	
+A map of streets and landmarks of multiple major cities in the world. Uses a multi destination Dijkstra's algorithm and Greedy algorithm to solve the Travelling Salesman Problem which is computationally hard. The map determines a legal path that goes through a set of predefined depots, pick up and drop off points.	
 
-GUI elements: search field, map markers, buttons. 					
+GUI elements: 
+Search field - suggests the full street names and city names given a partial name.
+Map markers - shows Points of Interests and locations the salesmen needs to travel to.
+Buttons - toggle to display subway lines, start path search, show map of another city.
 
 ** Reach out to me for the source code!
